@@ -1,0 +1,9 @@
+../fysom/__init__.py
+../fysom/__init__.pyc
+.
+dependency_links.txt
+entry_points.txt
+PKG-INFO
+SOURCES.txt
+top_level.txt
+zip-safe
